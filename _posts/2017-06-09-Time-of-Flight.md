@@ -10,33 +10,70 @@ categories: press
 author: STMicroelectronics
 ---
 
-ST’s Time-of-Flight proximity sensors and microcontrollers enable innovative gesture control in interactive artistic experience
-Australia's major winter event, Vivid Sydney is acknowledged to be the world’s largest event combining light, music, and ideas
+       <p>
+            <em><ul>
+<li><i>ST’s Time-of-Flight proximity sensors and microcontrollers enable innovative gesture control in interactive artistic experience</i></li>
+<li><i>Australia's major winter event, Vivid Sydney is acknowledged to be the world’s largest event combining light, music, and ideas </i></li>
+</ul>
 
-Sydney / 09 Jun 2017
-STMicroelectronics (NYSE: STM), a global semiconductor leader serving customers across the spectrum of electronics applications, has collaborated with Australia-based artists to create an exhibit called “Light of Thoughts ” for Vivid Sydney 2017, running from May 26 to June 17. Relying on ST’s leading-edge proximity-sensing and control chips, the innovative installation is ongoing in Sydney, Australia’s Macquarie Place Park every evening from 6pm to 11pm. &lt;b>Time-of-Flight Sensors and Microcontrollers from STMicroelectronics Light up Vivid Sydney 2017&lt;/b>
-Assembled by 270 acrylic cubes, the Light of Thoughts installation is built as a giant “brain” in a pixel form that reacts and projects different animations and illuminations based on hand movements.
 
-Adjacent to the brain is a control stand that uses two ST Time-of-Flight proximity sensors to respond to hand gestures made by participants. Wiping down at the control point activates and triggers changes to animations and illumination inside the brain, representing ‘thoughts.’ Alternatively, waving upward recalls thoughts from the original animation. Through the evening, as thoughts multiply, the audio and visual effects become faster and stronger. The Light of Thoughts project records all interactive data in real time via the cloud for traffic analysis.
+ </em>
+            <br>
+          	<span class="lightblue-text">
+            	Sydney /
+            	
+    
+        09 Jun 2017
+    
 
-Making all this possible is ST’s powerful 32-bit STM32F7 microcontroller inside the installation. This high-performance microcontroller powers the Wireless multi-sensor board and the Audio/video/lighting control board, which is based on the STM32 Open Development Environment (ODE). The STM32 ODE provides an open, flexible, easy, and affordable way to develop innovative devices and whole solutions for IoT (Internet of Things) applications.
+          </span>
+        </p>
 
-Note to Editors:
-ST had previously participated in Vivid Sydney 2016 with the Vision^(Reflection) exhibit.
+        <b>STMicroelectronics (NYSE: STM),</b>
 
-Now in its ninth year, Vivid Sydney is Australia's major event in winter and is recognised as the largest event of its kind in the world combining light, music, and ideas – where art, technology, and commerce intersect. The program features large-scale light installations and projections (Vivid Light); music performances and collaborations (Vivid Music including Vivid LIVE at the Sydney Opera House); and creative ideas, discussion, and debate (Vivid Ideas). All three celebrate Sydney as a creative hub of the Asia-Pacific.
+ a global semiconductor leader serving customers across the spectrum of electronics applications, has collaborated with Australia-based artists to create an exhibit called “<a href="https://www.vividsydney.com/event/light/light-thoughts" target="_blank">Light of Thoughts</a>
+” for <a href="https://www.vividsydney.com/" target="_blank">Vivid Sydney</a>
+ 2017, running from May 26 to June 17. Relying on ST’s leading-edge proximity-sensing and control chips, the innovative installation is ongoing in Sydney, Australia’s Macquarie Place Park every evening from 6pm to 11pm.
 
-Vivid Sydney was recently recognised by the International Festivals & Events Association (IFEA) and received 12 accolades at the 2016 IFEA Pinnacle Awards, winning Gold in the Grand Pinnacle Category. Vivid Sydney was also voted Australia’s Best Event in 2013 and Best Tourism Event in 2013, 2014, and 2015.
+        
+        	
+        		<a href="/content/ccc/fragment/press/technical_press_release/press_image/group0/c4/36/b7/1d/01/9c/4c/a7/ST_Lights_Vivid_Sydney_2017_T3961R_big/files/ST_Lights_Vivid_Sydney_2017_T3961R_big.jpg/_jcr_content/translations/en.ST_Lights_Vivid_Sydney_2017_T3961R_big.jpg" target="_blank">
+        			<img src="/content/ccc/fragment/press/technical_press_release/press_image/group0/5d/d0/37/87/b9/dc/40/ce/ST_Lights_Vivid_Sydney_2017_T3961R_s/files/ST_Lights_Vivid_Sydney_2017_T3961R_s.jpg/_jcr_content/translations/en.ST_Lights_Vivid_Sydney_2017_T3961R_s.jpg" alt="&amp;lt;b>Time-of-Flight Sensors and Microcontrollers from STMicroelectronics Light up Vivid Sydney 2017&amp;lt;/b>" title="&amp;lt;b>Time-of-Flight Sensors and Microcontrollers from STMicroelectronics Light up Vivid Sydney 2017&amp;lt;/b>" class="right">
+        		</a>
+        	
+        	
+        
 
-About STMicroelectronics
-ST is a global leader in the semiconductor market serving customers across the spectrum of sense and power and automotive products and embedded processing solutions. From energy management and savings to trust and data security, from healthcare and wellness to smart consumer devices, in the home, car and office, at work and at play, ST is found everywhere microelectronics make a positive and innovative contribution to people's life. By getting more from technology to get more from life, ST stands for life.augmented.
+        <p>Assembled by 270 acrylic cubes, the Light of Thoughts installation is built as a giant “brain” in a pixel form that reacts and projects different animations and illuminations based on hand movements.</p>
 
-In 2016, the Company’s net revenues were $6.97 billion. Further information on ST can be found at www.st.com.
+<p>Adjacent to the brain is a control stand that uses two ST Time-of-Flight proximity sensors to respond to hand gestures made by participants. Wiping down at the control point activates and triggers changes to animations and illumination inside the brain, representing ‘thoughts.’ Alternatively, waving upward recalls thoughts from the original animation. Through the evening, as thoughts multiply, the audio and visual effects become faster and stronger. The Light of Thoughts project records all interactive data in real time via the cloud for traffic analysis.</p>
 
-For Press Information Contact:
+<p>Making all this possible is ST’s powerful 32-bit STM32F7 microcontroller inside the installation. This high-performance microcontroller powers the Wireless multi-sensor board and the Audio/video/lighting control board, which is based on the STM32 Open Development Environment (ODE). The STM32 ODE provides an open, flexible, easy, and affordable way to develop innovative devices and whole solutions for IoT (Internet of Things) applications.</p>
 
-Mr. Dennis Tan
-Corporate External Communications
-STMicroelectronics Asia-Pacific
-Tel: +65 6216 5598
-Email: wddennis.tan@st.com
+
+<p><u>Note to Editors:<br />
+ </u>ST had previously participated in Vivid Sydney 2016 with the <a href="https://www.vividsydney.com/event/light/visionreflection" target="_blank">Vision^(Reflection)</a> exhibit.</p>
+
+<p>Now in its ninth year, Vivid Sydney is Australia's major event in winter and is recognised as the largest event of its kind in the world combining light, music, and ideas – where art, technology, and commerce intersect. The program features large-scale light installations and projections (Vivid Light); music performances and collaborations (Vivid Music including Vivid LIVE at the Sydney Opera House); and creative ideas, discussion, and debate (Vivid Ideas). All three celebrate Sydney as a creative hub of the Asia-Pacific.</p>
+
+<p>Vivid Sydney was recently recognised by the International Festivals &amp; Events Association (IFEA) and received 12 accolades at the 2016 IFEA Pinnacle Awards, winning Gold in the Grand Pinnacle Category. Vivid Sydney was also voted Australia’s Best Event in 2013 and Best Tourism Event in 2013, 2014, and 2015.</p>
+
+
+<p><b>About STMicroelectronics</b><br />
+ST is a global leader in the semiconductor market serving customers across the spectrum of sense and power and automotive products and embedded processing solutions. From energy management and savings to trust and data security, from healthcare and wellness to smart consumer devices, in the home, car and office, at work and at play, ST is found everywhere microelectronics make a positive and innovative contribution to people's life. By getting more from technology to get more from life, ST stands for <span
+    style="color: rgb(57,169,220);">life.</span><span style="color: rgb(0,28,81);">augmented</span>.</p>
+
+
+<p>In 2016, the Company’s net revenues were $6.97 billion. Further information on ST can be found at <a href="http://www.st.com/">www.st.com</a>.</p>
+
+
+
+        
+        <p><b><u>For Press Information Contact:</u></b></p>
+
+
+<p><b>Mr. Dennis Tan<br />
+ Corporate External Communications<br />
+ STMicroelectronics Asia-Pacific</b><br />
+Tel: +65 6216 5598<br />
+Email: <a href="mailto:wddennis.tan@st.com">wddennis.tan@st.com</a></p>
