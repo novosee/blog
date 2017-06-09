@@ -1,14 +1,13 @@
 ---
 layout: page
-title:  "Time-of-Flight Sensors and Microcontrollers from STMicroelectronics Light up Vivid Sydney 2017"
+title:  Time-of-Flight Sensors and Microcontrollers from STMicroelectronics Light up Vivid Sydney 2017
 date:   2017-Jun-09 
-description: ST’s Time-of-Flight proximity sensors and microcontrollers enable innovative gesture control in interactive artistic experience
-Australia's major winter event, Vivid Sydney is acknowledged to be the world’s largest event combining light, music, and ideas
+description: Australia's major winter event, Vivid Sydney is acknowledged to be the world’s largest event combining light, music, and ideas
 thumbnail: person1.jpeg
 categories: press
 
 # Information for the author block
-author: Nina Petropoulos
+author: STMicroelectronics
 ---
 
 ST’s Time-of-Flight proximity sensors and microcontrollers enable innovative gesture control in interactive artistic experience
