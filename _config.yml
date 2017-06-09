@@ -1,11 +1,11 @@
 # Site settings
-title: Vivid
-subtitle: by Novosee
-email: novosee.vivid@gmail.com
+title: NovoSee
+subtitle: 
+email: vivid.novosee@gmail.com
 description: vivid
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
-author:
+author: Joe PENG
 street_address: 
 city: Sydney
 state: NSW
@@ -20,7 +20,7 @@ github_url:
 gitlab_url: 
 googleplus_url: 
 instagram_url: 
-linkedin_url: 
+linkedin_url: aaa 
 pinterest_url:
 slack_url:
 twitter_url: 
