@@ -10,41 +10,23 @@ categories: press
 author: STMicroelectronics
 ---
 
-       <p>
-            <em><ul>
+<ul>
 <li><i>ST’s Time-of-Flight proximity sensors and microcontrollers enable innovative gesture control in interactive artistic experience</i></li>
 <li><i>Australia's major winter event, Vivid Sydney is acknowledged to be the world’s largest event combining light, music, and ideas </i></li>
 </ul>
 
+<span class="lightblue-text">
+            	Sydney /09 Jun 2017
+</span>
+<p>    
+<b>STMicroelectronics (NYSE: STM),</b>
 
- </em>
-            <br>
-          	<span class="lightblue-text">
-            	Sydney /
-            	
-    
-        09 Jun 2017
-    
-
-          </span>
-        </p>
-
-        <b>STMicroelectronics (NYSE: STM),</b>
-
- a global semiconductor leader serving customers across the spectrum of electronics applications, has collaborated with Australia-based artists to create an exhibit called “<a href="https://www.vividsydney.com/event/light/light-thoughts" target="_blank">Light of Thoughts</a>
+a global semiconductor leader serving customers across the spectrum of electronics applications, has collaborated with Australia-based artists to create an exhibit called “<a href="https://www.vividsydney.com/event/light/light-thoughts" target="_blank">Light of Thoughts</a>
 ” for <a href="https://www.vividsydney.com/" target="_blank">Vivid Sydney</a>
  2017, running from May 26 to June 17. Relying on ST’s leading-edge proximity-sensing and control chips, the innovative installation is ongoing in Sydney, Australia’s Macquarie Place Park every evening from 6pm to 11pm.
+</p>
 
-        
-        	
-        		<a href="/content/ccc/fragment/press/technical_press_release/press_image/group0/c4/36/b7/1d/01/9c/4c/a7/ST_Lights_Vivid_Sydney_2017_T3961R_big/files/ST_Lights_Vivid_Sydney_2017_T3961R_big.jpg/_jcr_content/translations/en.ST_Lights_Vivid_Sydney_2017_T3961R_big.jpg" target="_blank">
-        			<img src="/content/ccc/fragment/press/technical_press_release/press_image/group0/5d/d0/37/87/b9/dc/40/ce/ST_Lights_Vivid_Sydney_2017_T3961R_s/files/ST_Lights_Vivid_Sydney_2017_T3961R_s.jpg/_jcr_content/translations/en.ST_Lights_Vivid_Sydney_2017_T3961R_s.jpg" alt="&amp;lt;b>Time-of-Flight Sensors and Microcontrollers from STMicroelectronics Light up Vivid Sydney 2017&amp;lt;/b>" title="&amp;lt;b>Time-of-Flight Sensors and Microcontrollers from STMicroelectronics Light up Vivid Sydney 2017&amp;lt;/b>" class="right">
-        		</a>
-        	
-        	
-        
-
-        <p>Assembled by 270 acrylic cubes, the Light of Thoughts installation is built as a giant “brain” in a pixel form that reacts and projects different animations and illuminations based on hand movements.</p>
+<p>Assembled by 270 acrylic cubes, the Light of Thoughts installation is built as a giant “brain” in a pixel form that reacts and projects different animations and illuminations based on hand movements.</p>
 
 <p>Adjacent to the brain is a control stand that uses two ST Time-of-Flight proximity sensors to respond to hand gestures made by participants. Wiping down at the control point activates and triggers changes to animations and illumination inside the brain, representing ‘thoughts.’ Alternatively, waving upward recalls thoughts from the original animation. Through the evening, as thoughts multiply, the audio and visual effects become faster and stronger. The Light of Thoughts project records all interactive data in real time via the cloud for traffic analysis.</p>
 
@@ -65,13 +47,7 @@ ST is a global leader in the semiconductor market serving customers across the s
 
 
 <p>In 2016, the Company’s net revenues were $6.97 billion. Further information on ST can be found at <a href="http://www.st.com/">www.st.com</a>.</p>
-
-
-
-        
-        <p><b><u>For Press Information Contact:</u></b></p>
-
-
+<p><b><u>For Press Information Contact:</u></b></p>
 <p><b>Mr. Dennis Tan<br />
  Corporate External Communications<br />
  STMicroelectronics Asia-Pacific</b><br />
