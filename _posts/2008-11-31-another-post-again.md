@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title:  "Another Post Again"
 date:   2008-11-31 09:11:03
 description: Phasellus hendrerit. Pellent aliquet nibh nec urna. In nis aliquet vel, dapibus id,mattis.
