@@ -3,7 +3,7 @@ layout: page
 title:  "Time-of-Flight Sensors and Microcontrollers from STMicroelectronics Light up Vivid Sydney 2017"
 date:   2017-Jun-09 
 description: Australia's major winter event, Vivid Sydney is acknowledged to be the world’s largest event combining light, music, and ideas
-thumbnail: person1.jpeg
+image: assets/images/en.ST_Lights_Vivid_Sydney_2017_T3961R_s.jpg
 categories: press
 
 # Information for the author block
