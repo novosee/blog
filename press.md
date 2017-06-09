@@ -7,8 +7,8 @@ title: Press Releases
 {% for post in site.posts %}
 	<ul class="alt">
 	<li>  <a  href='{{site.baseurl}}{{ post.url }}'>{{ post.title }}</a>
-                  <p >{{ post.date | date_to_long_string }} / by {{ post.author }}</p>
-		  <p >{{ post.description }}</p>
+                  <p >{{ post.date | date_to_long_string }} / by {{ post.author }} <br>
+		  {{ post.description }}</p>
         </li>
 	</ul>
 {% endfor %}
