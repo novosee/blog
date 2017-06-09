@@ -3,7 +3,7 @@ layout: page
 title: Press Releases
 ---
 
-<div class='6u 12u$(small)'>
+<div>
 <ul class="alt">
 {% for post in site.posts %}
 	
