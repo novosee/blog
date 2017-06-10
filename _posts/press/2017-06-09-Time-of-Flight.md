@@ -5,7 +5,7 @@ date:   2017-Jun-09
 description: Australia's major winter event, Vivid Sydney is acknowledged to be the world’s largest event combining light, music, and ideas
 image: assets/images/en.ST_Lights_Vivid_Sydney_2017_T3961R_s.jpg
 categories: press
-
+eurl: http://www.st.com/content/st_com/en/about/media-center/press-item.html/t3961.html
 # Information for the author block
 author: STMicroelectronics
 ---
