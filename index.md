@@ -4,35 +4,35 @@ layout: default
 
 <!-- Section -->
 <section>
-	<header class="major">
-		<h2>Erat lacinia</h2>
+	<header class="major">	
+		<h2><a  href='{{ 'realtime' | absolute_url }}'>Light of Thoughts(2017 Vivid)</a> </h2>
 	</header>
 	<div class="features">
 		<article>
 			<span class="icon fa-lightbulb-o"></span>
 			<div class="content">
-				<h3>Portitor ullamcorper</h3>
+				<h3>A big brain</h3>
 				<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
 			</div>
 		</article>
 		<article>
 			<span class="icon fa-paper-plane"></span>
 			<div class="content">
-				<h3>Sapien veroeros</h3>
+				<h3>Interactive and fun</h3>
 				<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
 			</div>
 		</article>
 		<article>
 			<span class="icon fa-rocket"></span>
 			<div class="content">
-				<h3>Quam lorem ipsum</h3>
+				<h3>Internet of Things</h3>
 				<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
 			</div>
 		</article>
 		<article>
 			<span class="icon fa-signal"></span>
 			<div class="content">
-				<h3>Sed magna finibus</h3>
+				<h3>Open and flexible</h3>
 				<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
 			</div>
 		</article>
