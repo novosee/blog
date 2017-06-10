@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Press Releases
+title: Art & Design
 ---
 
 <div>
