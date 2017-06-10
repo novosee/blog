@@ -3,7 +3,7 @@ title: NovoSee
 subtitle: 
 email: vivid.novosee@gmail.com
 description: vivid
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 author: Joe PENG
 street_address: 
