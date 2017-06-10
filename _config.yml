@@ -4,7 +4,7 @@ subtitle:
 email: vivid.novosee@gmail.com
 description: vivid
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+url: "novosee.github.io" # the base hostname & protocol for your site
 author: Joe PENG
 street_address: 
 city: Sydney
