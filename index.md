@@ -5,7 +5,7 @@ layout: default
 <!-- Section -->
 <section>
 	<header class="major">	
-		<h2><a  href='{{ 'realtime' | absolute_url }}'>Light of Thoughts(2017 Vivid)</a> </h2>
+		<h2><a  href='{{ 'vsd2017/vsd.html' | absolute_url }}'>Light of Thoughts(2017 Vivid)</a> </h2>
 	</header>
 	<div class="features">
 		<article>
@@ -95,3 +95,4 @@ layout: default
 		</article>
 	</div>
 </section>
+
