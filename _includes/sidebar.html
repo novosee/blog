@@ -1,60 +1,60 @@
 <!-- Sidebar -->
-  <div id="sidebar">
-    <div class="inner">
+<div id="sidebar">
+  <div class="inner">
 
-      <!-- Search -->
-        <section id="search" class="alt">
-          <form method="post" action="#">
-            <input type="text" name="query" id="query" placeholder="Search" />
-          </form>
-        </section>
+    <!-- Search -->
+    <section id="search" class="alt">
+      <form method="post" action="#">
+        <input type="text" name="query" id="query" placeholder="Search" />
+      </form>
+    </section>
 
-      <!-- Menu -->
-        <nav id="menu">
-          <header class="major">
-            <h2>Menu</h2>
-          </header>
+    <!-- Menu -->
+    <nav id="menu">
+      <header class="major">
+        <h2>Menu</h2>
+      </header>
+      <ul>
+        <li><a href="{{ 'index.html' | absolute_url }}">Homepage</a></li>
+        <li>
+          <span class="opener">Our Work</span>
           <ul>
-            <li><a href="{{ 'index.html' | absolute_url }}">Homepage</a></li>
-            <li>
-              <span class="opener">Our Work</span>
-              <ul>
-                <li><a href="#">2017 Light of Thoughts</a></li>
-                <li><a href="#">2016 Vision Reflection</a></li>
-              </ul>
-            </li>
-            <li><a href="{{ 'press.html' | absolute_url }}">Press Releases</a></li>
-            <li>
-              <span class="opener">Design & Development</span>
-              <ul>
-                <li><a href="#">Art & Design</a></li>
-                <li><a href="#">Development</a></li>
-              </ul>
-            </li>
-            <li><a href="{{ 'aboutvivid.html' | absolute_url }}">About Vivid Sydney</a></li>
-            <li><a href="{{ 'aboutus.html' | absolute_url }}">About Us</a></li>
+            <li><a href="https://www.vividsydney.com/event/light/light-thoughts">2017 Light of Thoughts</a></li>
+            <li><a href="https://www.vividsydney.com/event/light/visionreflection">2016 Vision Reflection</a></li>
           </ul>
-        </nav>
-
-
-      <!-- Section -->
-        <section>
-          <header class="major">
-            <h2>Get in touch</h2>
-          </header>
-          <p>Come and have a coffee with us!</p>
-          <ul class="contact">
-            <li class="fa-envelope-o"><a href="#">{{ site.email }}</a></li>
-            <li class="fa-home">
-            {{ site.city }}, {{ site.state }} {{ site.zip_code }}<br />
-            {{ site.country }}</li>
+        </li>
+        <li><a href="{{ 'press.html' | absolute_url }}">Press Releases</a></li>
+        <li>
+          <span class="opener">Blog</span>
+          <ul>
+            <li><a href="#">Art & Design</a></li>
+            <li><a href="#">Development</a></li>
           </ul>
-        </section>
+        </li>
+        <li><a href="{{ 'aboutvivid.html' | absolute_url }}">Vivid Story</a></li>
+        <li><a href="{{ 'aboutus.html' | absolute_url }}">About Us</a></li>
+      </ul>
+    </nav>
 
-      <!-- Footer -->
-        <footer id="footer">
-          <p class="copyright">&copy; {{ site.title }}. All rights reserved. Demo Images: <a href="https://unsplash.com">Unsplash</a>. Design: <a href="https://html5up.net">HTML5 UP</a>. Jekyll integration: <a href="https://andrewbanchi.ch">Andrew Banchich</a>.</p>
-        </footer>
 
-    </div>
+    <!-- Section -->
+    <section>
+      <header class="major">
+        <h2>Get in touch</h2>
+      </header>
+      <p>Come and have a coffee with us!</p>
+      <ul class="contact">
+        <li class="fa-envelope-o"><a href="#">{{ site.email }}</a></li>
+        <li class="fa-home">
+          {{ site.city }}, {{ site.state }} {{ site.zip_code }}<br /> {{ site.country }}</li>
+      </ul>
+    </section>
+
+    <!-- Footer -->
+    <footer id="footer">
+      <p class="copyright">&copy; {{ site.title }}. All rights reserved. Demo Images: <a href="https://unsplash.com">Unsplash</a>. Design:
+        <a href="https://html5up.net">HTML5 UP</a>. Jekyll integration: <a href="https://andrewbanchi.ch">Andrew Banchich</a>.</p>
+    </footer>
+
   </div>
+</div>
