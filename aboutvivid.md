@@ -1,9 +1,8 @@
 ---
 layout: page
-title: 
+title: Vivid Story
 ---
 
-# About Vivid
 
 In all the kids' eyes, Daddy is Superman, he can do anything he wants to do. I get 6 years old daught. My vivid story started from  Superdaddy acts as Artist, wants to build a big vivid toy for his daught.
 
