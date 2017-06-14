@@ -1,9 +1,10 @@
 ---
 layout: page
-title: 
+title:
 ---
+
  ## Why Vivid Sydney?
-[Joe] Very simple, Super daddy wants to build a big vivid toy for his daughter. In all the kids’ eyes, Daddy is Superman, he can do anything he wants to do. My 6 years old daughter was one and only one tester in this project. She also contributed the idea “swipe light to brain”.
+ [Joe] Very simple, Super daddy wants to build a big vivid toy for his daughter. In all the kids’ eyes, Daddy is Superman, he can do anything he wants to do. My 6 years old daughter was one and only one tester in this project. She also contributed the idea “swipe light to brain”.
  
 ## Is it possible for a “geek” to become a “artist”?
 [Joe] Yes, Art has been propelled by a new era revolutionized by technology, the Internet and a vast change in culture.  IoT is one of ST strategic focus, is anywhere now.  If we look back on the technical history of “public art”, there are 4 stages:
