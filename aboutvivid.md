@@ -10,14 +10,15 @@ title:
 1. Static art installation, eg static statue
 2. Dynamic art installation, eg multimedia art installation
 3. Interactive art installation, eg with the help of sensor, visitor can interact with installation
-4. Connected art installation, combined with internet and big data technology, installation can do 
-                 more smart sensing and innovative interaction.
+4. Connected art installation, combined with internet and big data technology, installation can do more smart sensing and innovative interaction.
+
 In my opinion, good art works combine art with new technologies. But traditional artists know little about technology. Geeks know little about art.
 Partnered with local artists, we assembled a strong team with 4 members.
-Joe (ST):  Hardware and Software design
-Steve: Architecture and Mould design
-Stephen: Video design
-Jim: Field Install
+* Joe (ST):  Hardware and Software design
+* Steve: Architecture and Mould design
+* Stephen: Video design
+* Jim: Field Install
+
 Our target was to build a connected and interactive art light installation.
  
 ## What makes “Light of thoughts” unique in Vivid Sydney 2017?
