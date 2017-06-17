@@ -24,13 +24,13 @@ function firebasesetup() {
     accChangeX = abs(accelerationX - pAccelerationX);
     accChangeY = abs(accelerationY - pAccelerationY);
     new_accChangeT = accChangeX + accChangeY;
-    //if (new_accChangeT > threshold) {
+    if (new_accChangeT > threshold) {
       datesend(new_accChangeT);
-    //} else {
-      //if (old_accChangeT > threshold) {
-       // datesend(new_accChangeT);
-      //}
-    //}
+    } else {
+      if (old_accChangeT > threshold) {
+        datesend(new_accChangeT);
+      }
+    }
     old_accChangeT = new_accChangeT;
 
   }, 200)
@@ -57,7 +57,7 @@ function datesend(maccChangeT) {
 
 var balls = [];
 
-var threshold = 30;
+var threshold = 15;
 var accChangeX = 0;
 var accChangeY = 0;
 var accChangeT = 0;
