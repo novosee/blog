@@ -42,7 +42,7 @@ function dateupdate() {
     accChangeX = snapshot.val().accChangeX;
     accChangeY = snapshot.val().accChangeY;
     accChangeT = snapshot.val().accChangeT;
-    console.log("The updated post title is " + accChangeT);
+    //console.log("The updated post title is " + accChangeT);
   });
 
 
@@ -59,7 +59,7 @@ function datesend(maccChangeX, maccChangeY, maccChangeT) {
 
 }
 function setup() {
-  createCanvas(displayWidth, displayHeight);
+  createCanvas(windowWidth, windowHeight);
   //frameRate(20);
 
   for (var i = 0; i < 20; i++) {
