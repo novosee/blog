@@ -1,13 +1,20 @@
 
 var database;
-
-
-
-
-//loadTimeline(2017, 6, dnow.getDate(), 18, 0, 2017, 6, dnow.getDate(), 23, 1);
-//lodaTotalTimeline(2017, 6, dnow.getDate());
-var new_accChangeT, old_accChangeT;
 var ref;
+
+var balls = [];
+
+var threshold = 20;
+//receive
+var accChangeX = 0;
+var accChangeY = 0;
+var accChangeT = 0;
+//send
+var maccChangeX = 0;
+var maccChangeY = 0;
+var maccChangeT = 0;
+
+
 function firebasesetup() {
   // Start Firebase
   var config = {
@@ -21,47 +28,36 @@ function firebasesetup() {
   database = firebase.database();
   ref = database.ref("fireball");
   setInterval(function () {
-    accChangeX = abs(accelerationX - pAccelerationX);
-    accChangeY = abs(accelerationY - pAccelerationY);
-    new_accChangeT = accChangeX + accChangeY;
-    if (new_accChangeT > threshold) {
-      datesend(new_accChangeT);
-    } else {
-      if (old_accChangeT > threshold) {
-        datesend(new_accChangeT);
-      }
-    }
-    old_accChangeT = new_accChangeT;
-
+    maccChangeX = abs(accelerationX - pAccelerationX);
+    maccChangeY = abs(accelerationY - pAccelerationY);
+    maccChangeT = maccChangeX + maccChangeY;
+    datesend(maccChangeX, maccChangeY, maccChangeT);
+    //datesend(maccChangeX++, maccChangeY++ + 1, maccChangeT++ + 2);
   }, 200)
 
 }
 
 function dateupdate() {
-  ref.on("child_changed", function (snapshot) {
-    accChangeT = snapshot.val();
+  ref.on("value", function (snapshot) {
+    accChangeX = snapshot.val().accChangeX;
+    accChangeY = snapshot.val().accChangeY;
+    accChangeT = snapshot.val().accChangeT;
     console.log("The updated post title is " + accChangeT);
   });
 
 
 }
 
-function datesend(maccChangeT) {
+function datesend(maccChangeX, maccChangeY, maccChangeT) {
   if (maccChangeT != 0) {
     ref.update({
+      "accChangeX": maccChangeX,
+      "accChangeY": maccChangeY,
       "accChangeT": maccChangeT
     });
   }
 
 }
-
-var balls = [];
-
-var threshold = 15;
-var accChangeX = 0;
-var accChangeY = 0;
-var accChangeT = 0;
-
 function setup() {
   createCanvas(displayWidth, displayHeight);
   //frameRate(20);
