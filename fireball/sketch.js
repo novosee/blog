@@ -31,8 +31,9 @@ function firebasesetup() {
         datesend(new_accChangeT);
       }
     }
+    old_accChangeT = new_accChangeT;
+
   }, 200)
-  old_accChangeT = new_accChangeT;
 
 }
 
