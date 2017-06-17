@@ -1,16 +1,13 @@
 
-var container = document.getElementById('visualization');
 var database;
 
-firebasesetup();
-dateupdate();
 
 
 
 //loadTimeline(2017, 6, dnow.getDate(), 18, 0, 2017, 6, dnow.getDate(), 23, 1);
 //lodaTotalTimeline(2017, 6, dnow.getDate());
-var accRef;
-var ref
+var new_accChangeT, old_accChangeT;
+var ref;
 function firebasesetup() {
   // Start Firebase
   var config = {
@@ -26,17 +23,20 @@ function firebasesetup() {
   setInterval(function () {
     accChangeX = abs(accelerationX - pAccelerationX);
     accChangeY = abs(accelerationY - pAccelerationY);
-    maccChangeT = accChangeX + accChangeY;
-    datesend(maccChangeT);
-  }, 100)
+    new_accChangeT = accChangeX + accChangeY;
+    if (new_accChangeT > threshold) {
+      datesend(new_accChangeT);
+    } else {
+      if (old_accChangeT > threshold) {
+        datesend(new_accChangeT);
+      }
+    }
+  }, 200)
+  old_accChangeT = new_accChangeT;
 
 }
 
 function dateupdate() {
-  console.log('hi');
-
-
-
   ref.on("child_changed", function (snapshot) {
     accChangeT = snapshot.val();
     console.log("The updated post title is " + accChangeT);
@@ -68,11 +68,15 @@ function setup() {
   for (var i = 0; i < 20; i++) {
     balls.push(new Ball());
   }
+
+  firebasesetup();
+  dateupdate();
+
 }
 
 function mousePressed() {
-  var fs = fullscreen();
-  fullscreen(!fs);
+  //var fs = fullscreen();
+  //fullscreen(!fs);
   console.log('fullscreen');
 
 }
