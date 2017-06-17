@@ -27,9 +27,9 @@ function firebasesetup() {
     if (new_accChangeT > threshold) {
       datesend(new_accChangeT);
     } else {
-      if (old_accChangeT > threshold) {
+      //if (old_accChangeT > threshold) {
         datesend(new_accChangeT);
-      }
+      //}
     }
     old_accChangeT = new_accChangeT;
 
