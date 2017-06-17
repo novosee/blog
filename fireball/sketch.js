@@ -24,13 +24,13 @@ function firebasesetup() {
     accChangeX = abs(accelerationX - pAccelerationX);
     accChangeY = abs(accelerationY - pAccelerationY);
     new_accChangeT = accChangeX + accChangeY;
-    if (new_accChangeT > threshold) {
+    //if (new_accChangeT > threshold) {
       datesend(new_accChangeT);
-    } else {
+    //} else {
       //if (old_accChangeT > threshold) {
-        datesend(new_accChangeT);
+       // datesend(new_accChangeT);
       //}
-    }
+    //}
     old_accChangeT = new_accChangeT;
 
   }, 200)
