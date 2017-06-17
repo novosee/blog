@@ -59,7 +59,7 @@ function datesend(maccChangeX, maccChangeY, maccChangeT) {
 
 }
 function setup() {
-  createCanvas(displayWidth, displayHeight);
+  createCanvas(windowWidth, windowHeight);
   //frameRate(20);
 
   for (var i = 0; i < 20; i++) {
