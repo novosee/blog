@@ -23,7 +23,6 @@ function firebasesetup() {
   firebase.initializeApp(config);
   database = firebase.database();
   ref = database.ref("fireball");
-  accRef = ref;
   setInterval(function () {
     accChangeX = abs(accelerationX - pAccelerationX);
     accChangeY = abs(accelerationY - pAccelerationY);
@@ -48,7 +47,7 @@ function dateupdate() {
 
 function datesend(maccChangeT) {
   if (maccChangeT != 0) {
-    accRef.update({
+    ref.update({
       "accChangeT": maccChangeT
     });
   }
