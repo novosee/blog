@@ -51,9 +51,12 @@ layout: default
 	</header>
 	<div class="posts">
 		<article>
-			<a href="#" class="image"><img src="assets/images/pic01.jpg" alt="" /></a>
-			<h3>Interdum aenean</h3>
-			<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
+			<video controls >
+  				<source src="assets/video/vivid2017.mp4" type="video/mp4">
+  						Your browser does not support the video tag.
+			</video>
+			<h3>Vivid 2017</h3>
+			<p>Light of Thoughts in Vivid 2017</p>
 			<ul class="actions">
 				<li><a href="#" class="button">More</a></li>
 			</ul>

@@ -4,7 +4,9 @@ var ref;
 
 var balls = [];
 
-var threshold = 20;
+
+var threshold = 10;
+
 //receive
 var accChangeX = 0;
 var accChangeY = 0;
@@ -42,7 +44,7 @@ function dateupdate() {
     accChangeX = snapshot.val().accChangeX;
     accChangeY = snapshot.val().accChangeY;
     accChangeT = snapshot.val().accChangeT;
-    //console.log("The updated post title is " + accChangeT);
+    console.log("T:" + accChangeT + " X:" + accChangeX + "  Y:" + accChangeY);
   });
 
 
