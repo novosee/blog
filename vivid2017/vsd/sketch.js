@@ -9,11 +9,11 @@ var dnow = new Date();
 //loadTimeline(2017, 6, dnow.getDate(), 18, 0, 2017, 6, dnow.getDate(), 23, 1);
 //lodaTotalTimeline(2017, 6, dnow.getDate());
 
-loadTimeline(2017, 6, dnow.getDate(), 18, 0, 2017, 6, dnow.getDate(), 23, 1);
-loadTimeline(2017, 6, dnow.getDate() - 1, 18, 0, 2017, 6, dnow.getDate() - 1, 23, 1);
-loadTimeline(2017, 6, dnow.getDate() - 2, 18, 0, 2017, 6, dnow.getDate() - 2, 23, 1);
-loadTimeline(2017, 6, dnow.getDate() - 3, 18, 0, 2017, 6, dnow.getDate() - 3, 23, 1);
-loadTimeline(2017, 6, dnow.getDate() - 4, 18, 0, 2017, 6, dnow.getDate() - 4, 23, 1);
+loadTimeline(2017, 10, dnow.getDate(), 18, 0, 2017, 10, dnow.getDate(), 23, 1);
+loadTimeline(2017, 10, dnow.getDate() - 1, 18, 0, 2017, 10, dnow.getDate() - 1, 23, 1);
+loadTimeline(2017, 10, dnow.getDate() - 2, 18, 0, 2017, 10, dnow.getDate() - 2, 23, 1);
+loadTimeline(2017, 10, dnow.getDate() - 3, 18, 0, 2017, 10, dnow.getDate() - 3, 23, 1);
+loadTimeline(2017, 10, dnow.getDate() - 4, 18, 0, 2017, 10, dnow.getDate() - 4, 23, 1);
 
 function firebasesetup() {
   // Start Firebase
